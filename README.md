@@ -2,7 +2,7 @@
 
 | 📌 English | 📌 Português BR |
 |-----------|----------------|
-| This repository contains BIOS files for various X99 motherboards, including models from manufacturers like **Machinist**, **Qyida**, and **SZMZ**. | Este repositório contém arquivos de BIOS para várias placas-mãe X99, incluindo modelos de fabricantes como **Machinist**, **Qyida** e **SZMZ**. |
+| This repository contains BIOS files for various X99 motherboards, including models from manufacturers like **Huananzhi**, **Machinist**, **Qyida**, and **SZMZ**. | Este repositório contém arquivos de BIOS para várias placas-mãe X99, incluindo modelos de fabricantes como **Huananzhi**, **Machinist**, **Qyida** e **SZMZ**. |
 | ⚠️ **Disclaimer:** Use at your own risk. Flashing the wrong BIOS may permanently damage your motherboard. | ⚠️ **Aviso:** Use por sua conta e risco. Gravar a BIOS errada pode danificar permanentemente sua placa-mãe. |
 
 
@@ -17,12 +17,14 @@
 
 ```
 /X99-BIOS
+├── Huananzhi/
+│ └── X99-F8-T8-TF/
 ├── Machinist/
 │ └── MR9A/
 ├── Qyida/
 │ └── H9S/
 ├── SZMZ/
-│ └──X99-S3/
+│ └── X99-S3/
 ```
 
 ### 📥 How to Use / Como Usar

@@ -1,0 +1,1 @@
+afuefix64.efi CX99DE77.ROM /P /B /N /R /X
